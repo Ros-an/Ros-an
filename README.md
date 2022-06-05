@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer.
+I am a web developer with 1+ years of experience in react js and Typescript. Strong creative and analytical skills. Team player with an eye for detail, and focus on building a web app that is scalable, and easily readable. Ability to learn new languages and technologies.
 <!-- 
 
 ### Connect with me:
