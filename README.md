@@ -23,11 +23,9 @@ I am a web developer with 1+ years of experience in react js and Typescript. Str
 
 </br>
 </br>
-### Connect with me:
-
-[<img align="left" alt="ros-an.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="roshan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="roshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ros-an.github.io" width="22px" src="https://cdn-icons-png.flaticon.com/512/893/893505.png" />][website]
+[<img align="left" alt="roshan | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" alt="roshan | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/185/185964.png" />][linkedin]
 
 [website]: https://roshankrmahato.netlify.app/
 [twitter]: https://twitter.com/rosan_kr
