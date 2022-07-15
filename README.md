@@ -23,7 +23,7 @@ I am a web developer with 1+ years of experience in react js and Typescript. Str
  -->
 
 ---
-[![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=ros-an&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/ros-an)
+[![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=ros-an&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=prs,issues)](https://github.com/ros-an)
 
 
 [website]: https://rosan.netlify.app/
