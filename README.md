@@ -2,14 +2,6 @@
 
 I am a web developer with 1+ years of experience in react js and Typescript. Strong creative and analytical skills.Focus on building a web app that is scalable, and readable. Open to learn new languages and technologies.
 <!-- 
-
-### Connect with me:
-
-[<img align="left" alt="ros-an.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="roshan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="roshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- -->
-<!-- 
 ### Languages and Tools:
 
 
@@ -29,7 +21,14 @@ I am a web developer with 1+ years of experience in react js and Typescript. Str
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ros-an&layout=compact)](https://github.com/ros-an)
 
+</br>
+</br>
+### Connect with me:
 
-[website]: https://rosan.netlify.app/
+[<img align="left" alt="ros-an.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="roshan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="roshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://roshankrmahato.netlify.app/
 [twitter]: https://twitter.com/rosan_kr
 [linkedin]: https://www.linkedin.com/in/roshan-kr-mahato-798592171/
