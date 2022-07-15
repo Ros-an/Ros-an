@@ -21,12 +21,13 @@ I am a web developer with 1+ years of experience in react js and Typescript. Str
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ros-an&layout=compact)](https://github.com/ros-an)
 
-</br>
-</br>
-[<img align="left" alt="ros-an.github.io" width="22px" src="https://cdn-icons-png.flaticon.com/512/893/893505.png" />][website]
-[<img align="left" alt="roshan | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align="left" alt="roshan | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/185/185964.png" />][linkedin]
-
-[website]: https://roshankrmahato.netlify.app/
-[twitter]: https://twitter.com/rosan_kr
-[linkedin]: https://www.linkedin.com/in/roshan-kr-mahato-798592171/
+---
+<a href="https://roshankrmahato.netlify.app/">
+      <img alt="ros-an" width="30px" src="https://cdn-icons-png.flaticon.com/512/893/893505.png" />
+</a>
+<a href="https://twitter.com/rosan_kr">
+      <img alt="roshan | Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
+</a>
+<a href="https://www.linkedin.com/in/roshan-kr-mahato-798592171/">
+      <img alt="roshan | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/185/185964.png" />
+</a>
