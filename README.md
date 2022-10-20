@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a web developer with 1+ years of experience in react js and Typescript. Strong creative and analytical skills.Focus on building a web app that is scalable, and readable. Open to learn new languages and technologies.
+I am a web developer with experience in react js and Typescript. Strong creative and analytical skills.Focus on building a web app that is scalable, and readable. Open to learn new languages and technologies.
 <!-- 
 ### Languages and Tools:
 
